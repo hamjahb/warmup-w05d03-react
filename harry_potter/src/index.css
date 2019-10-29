@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.card {
+  box-sizing: border-box;
+  padding: 10px;
+  box-shadow: 1px 1px 1px black;
+}
+
+button {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+}
